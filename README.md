@@ -88,7 +88,7 @@
 #### 内推
 - [一亩三分地内推](https://www.1point3acres.com/bbs/forum-198-1.html)
 - [牛客内推广场](https://www.nowcoder.com/discuss/referral/all/index)
-- [Leetcode 中国内推](https://leetcode-cn.com/problemset/all/)
+- [Leetcode 中国内推](https://leetcode-cn.com/circle/career/)
 
 #### 薪资对比
 - [一亩三分地抖包袱](https://www.1point3acres.com/bbs/forum-237-1.html)
