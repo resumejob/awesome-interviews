@@ -20,8 +20,8 @@
 #### 课程
 - [Leetcode 官方小册](https://leetcode-cn.com/leetbook/)
 - [OI Wiki - 免费开放的编程竞赛知识整合站点](https://oi-wiki.org/)
-- [Competitive Programming Algorithms](https://cp-algorithms.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [Competitive Programming Algorithms - 详细的算法与数据结构介绍](https://cp-algorithms.com/)
+- [GeeksforGeeks - 涵盖了各种算法的基础与常见的面试题](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - [Introduction to Algorithms - Srini Devadas (视频)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=1)
 - [算法第四版 (视频)](https://www.bilibili.com/video/av66547337/)
 
@@ -29,7 +29,7 @@
 #### 视频讲解
 - [Hua Hua - 详细清晰的中文讲解](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)
 - [LeetCode 力扣 - Leetcode 官方频道](https://www.youtube.com/channel/UCftIXZeipv4MTVwmfFphtYw/videos)
-- [山景城一姐](https://www.youtube.com/channel/UCmU1_xj6hR08AMvj6J6hERg/videos)
+- [山景城一姐 - 非常注重图形化分析的优秀讲解](https://www.youtube.com/channel/UCmU1_xj6hR08AMvj6J6hERg/videos)
 - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
 - [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
@@ -38,6 +38,7 @@
 - [算法（第4版）](https://book.douban.com/subject/19952400/)
 - [算法导论](https://book.douban.com/subject/20432061/)
 - [Cracking the Coding Interview](https://book.douban.com/subject/26570695/)
+- [剑指Offer](https://book.douban.com/subject/6966465/)
 
 #### 算法可视化
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
@@ -48,12 +49,12 @@
 <hr>
 
 #### 简历模版
-- [Overleaf - Resume](https://www.overleaf.com/gallery/tagged/cv)
+- [Overleaf - 专业的 Latex 风格模版](https://www.overleaf.com/gallery/tagged/cv)
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 - [超级简历](https://www.wondercv.com/jianlimoban/chengxuyuan/)
 
 #### 简历例句
-- [Awesome Resume](https://github.com/resumejob/awesome-resume)
+- [Awesome Resume - 包含了中英文的简历例句](https://github.com/resumejob/awesome-resume)
 - [Resume Genius](https://resumegenius.com/resume-samples/programmer-resume)
 - [Programmer Resume Examples](https://zety.com/blog/programmer-resume-example)
 
@@ -61,14 +62,14 @@
 <hr>
 
 ### 免费课程
-- [Udacity 免费课程](https://www.udacity.com/courses/all?type=free+courses)
+- [Udacity 免费课程 - 免费的课程有时候可能更好](https://www.udacity.com/courses/all?type=free+courses)
 - [Udemy 免费课程](https://www.udemy.com/zh-cn/courses/development/?price=price-free&sort=popularity)
 
 ### 文档
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 - [MySQL 中文文档](https://dev.mysql.com/doc/refman/8.0/en/)
 - [Redis Documentation](https://redis.io/documentation)
-- [Redis 中文文档](http://www.redis.cn/documentation.html)
+- [Redis 中文文档 - 看完能够解答极大部分 Redis 面试题](http://www.redis.cn/documentation.html)
 
 ### 项目实战
 <hr>
@@ -84,15 +85,15 @@
 - [微软证书](https://docs.microsoft.com/en-us/learn/certifications/)
 
 #### 面经题目
-- [Topk 高频题](https://osjobs.net/topk/)
-- [一亩三分地面经](https://www.1point3acres.com/bbs/forum-145-1.html)
+- [Topk 高频题 - 统计超过 2000 篇国内外真实面经](https://osjobs.net/topk/)
+- [一亩三分地面经 - 主要是美国地区的面经](https://www.1point3acres.com/bbs/forum-145-1.html)
 - [牛客面试资料馆](https://www.nowcoder.com/interview/center)
 - [Leetcode 面经](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
 - [Leetcode 中国面经](https://leetcode-cn.com/circle/?page=1&query=)
 
 
 #### 模拟面试
-- [Pramp 免费模拟面试](https://www.pramp.com/)
+- [Pramp - 免费的英文模拟面试平台](https://www.pramp.com/)
 - [Leetcode 模拟面试](https://leetcode.com/interview/)
 - [Leetcode 中国模拟面试](https://leetcode-cn.com/company/)
 
@@ -111,7 +112,7 @@
 #### 求职平台
 - [Linkedin](https://www.linkedin.com/)
 - [Indeed](https://indeed.com/)
-- [Ask HN: Who is hiring?]()
+- [Ask HN: Who is hiring?](https://news.ycombinator.com/)
 - [Angel List](https://angel.co)
 - [Job 多多](https://jobs.1point3acres.com/)
 - [Boss 直聘](https://www.zhipin.com/hangzhou/)
