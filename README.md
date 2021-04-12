@@ -1,6 +1,14 @@
 # 求职导航
 
-## 算法
+## 目录
+- [算法](#算法)
+- [简历](#简历)
+- [技术基础](#技术基础)
+- [项目实战](#项目实战)
+- [求职阶段](#求职阶段)
+
+### 算法
+<hr>
 
 #### 在线训练
 - [LeetCode - 最热门的面试题库](https://leetcode.com/)
@@ -27,8 +35,8 @@
 - [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
 
 #### 书籍
-- [算法导论](https://book.douban.com/subject/20432061/)
 - [算法（第4版）](https://book.douban.com/subject/19952400/)
+- [算法导论](https://book.douban.com/subject/20432061/)
 - [Cracking the Coding Interview](https://book.douban.com/subject/26570695/)
 
 #### 算法可视化
@@ -36,7 +44,8 @@
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 
-## 简历
+### 简历
+<hr>
 
 #### 简历模版
 - [Overleaf - Resume](https://www.overleaf.com/gallery/tagged/cv)
@@ -48,7 +57,8 @@
 - [Resume Genius](https://resumegenius.com/resume-samples/programmer-resume)
 - [Programmer Resume Examples](https://zety.com/blog/programmer-resume-example)
 
-## 技术基础
+### 技术基础
+<hr>
 
 ### 免费课程
 - [Udacity 免费课程](https://www.udacity.com/courses/all?type=free+courses)
@@ -60,7 +70,8 @@
 - [Redis Documentation](https://redis.io/documentation)
 - [Redis 中文文档](http://www.redis.cn/documentation.html)
 
-## 项目实战
+### 项目实战
+<hr>
 
 #### 项目列表
 - [免费项目实战课程](https://github.com/resumejob/free-project-course)
@@ -85,7 +96,8 @@
 - [Leetcode 模拟面试](https://leetcode.com/interview/)
 - [Leetcode 中国模拟面试](https://leetcode-cn.com/company/)
 
-## 求职
+### 求职阶段
+<hr>
 
 #### 内推
 - [一亩三分地内推](https://www.1point3acres.com/bbs/forum-198-1.html)
