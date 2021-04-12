@@ -20,6 +20,8 @@
 
 #### 视频讲解
 - [Hua Hua - 详细清晰的中文讲解](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)
+- [LeetCode 力扣 - Leetcode 官方频道](https://www.youtube.com/channel/UCftIXZeipv4MTVwmfFphtYw/videos)
+- [山景城一姐](https://www.youtube.com/channel/UCmU1_xj6hR08AMvj6J6hERg/videos)
 - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
 - [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
