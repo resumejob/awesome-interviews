@@ -2,10 +2,26 @@
 
 ## 目录
 - [算法](#算法)
+    - 在线训练
+    - 课程
+    - 视频讲解
+    - 书籍
+    - 算法可视化
 - [简历](#简历)
+    - 模板
+    - 例句
 - [技术基础](#技术基础)
-- [项目实战](#项目实战)
+    - 免费课程
+    - 官方文档
+- [实战](#实战)
+    - 项目列表
+    - 证书
+    - 面经题目
+    - 模拟面试
 - [求职阶段](#求职阶段)
+    - 内推
+    - 薪资对比
+    - 求职平台
 
 ### 算法
 <hr>
@@ -48,12 +64,12 @@
 ### 简历
 <hr>
 
-#### 简历模版
+#### 模版
 - [Overleaf - 专业的 Latex 风格模版](https://www.overleaf.com/gallery/tagged/cv)
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 - [超级简历](https://www.wondercv.com/jianlimoban/chengxuyuan/)
 
-#### 简历例句
+#### 例句
 - [Awesome Resume - 包含了中英文的简历例句](https://github.com/resumejob/awesome-resume)
 - [Resume Genius](https://resumegenius.com/resume-samples/programmer-resume)
 - [Programmer Resume Examples](https://zety.com/blog/programmer-resume-example)
@@ -65,13 +81,13 @@
 - [Udacity 免费课程 - 免费的课程有时候可能更好](https://www.udacity.com/courses/all?type=free+courses)
 - [Udemy 免费课程](https://www.udemy.com/zh-cn/courses/development/?price=price-free&sort=popularity)
 
-### 文档
+### 官方文档
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 - [MySQL 中文文档](https://dev.mysql.com/doc/refman/8.0/en/)
 - [Redis Documentation](https://redis.io/documentation)
 - [Redis 中文文档 - 看完能够解答极大部分 Redis 面试题](http://www.redis.cn/documentation.html)
 
-### 项目实战
+### 实战
 <hr>
 
 #### 项目列表
@@ -90,7 +106,6 @@
 - [牛客面试资料馆](https://www.nowcoder.com/interview/center)
 - [Leetcode 面经](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
 - [Leetcode 中国面经](https://leetcode-cn.com/circle/?page=1&query=)
-
 
 #### 模拟面试
 - [Pramp - 免费的英文模拟面试平台](https://www.pramp.com/)
