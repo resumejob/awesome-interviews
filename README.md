@@ -27,25 +27,54 @@
 <hr>
 
 #### 在线训练
-- [LeetCode - 最热门的面试题库](https://leetcode.com/)
-- [牛客网 - 牛客题霸](https://www.nowcoder.com/activity/oj)
-- [领扣 - 在线测评平台](https://www.lintcode.com/problem/)
-- [HackerRank - Market-leading technical assessment](https://www.hackerrank.com/)
-- [Topcoder - Build High-Quality Software with On-Demand Talent](https://www.topcoder.com/)
+
+###### [LeetCode - 最热门的面试题库](https://leetcode.com/)
+
+> “这里可以找到面试中大部分的算法原题，Leetcode 中国区还推出了高质量的免费官方解答，深入浅出，对于算法学习很有帮助。。每周的竞赛对于锻炼压力下做题非常有帮助。对于国内求职的学员，还有针对国内公司的模拟面试和职场相关讨论。“
+
+###### [HackerRank - Market-leading technical assessment](https://www.hackerrank.com/)
+
+> “Leetcode 的题目描述大多简洁而且易理解，不过在面试的过程中，题目描述可能没有那么直观，需要从题目中抽象出核心的内容。HackerRank 上面的题目可以锻炼阅读理解能力”
+
 
 #### 课程
-- [Leetcode 官方小册](https://leetcode-cn.com/leetbook/)
-- [OI Wiki - 免费开放的编程竞赛知识整合站点](https://oi-wiki.org/)
-- [Competitive Programming Algorithms - 详细的算法与数据结构介绍](https://cp-algorithms.com/)
-- [GeeksforGeeks - 涵盖了各种算法的基础与常见的面试题](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-- [Introduction to Algorithms - Srini Devadas (视频)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=1)
-- [算法第四版 (视频)](https://www.bilibili.com/video/av66547337/)
+###### [Leetcode 官方小册](https://leetcode-cn.com/leetbook/)
 
+> “官方小册包含初级算法，数据结构的介绍和例题，对于算法新手有莫大的帮助。最新还推出针对面试的八股文基础，包括计算机网络面试突击，Java 面试突击，C++ 面试突击，前端通关指南等，比网络上大多数资源都值得学习。”
+
+###### [OI Wiki - 免费开放的编程竞赛知识整合站点](https://oi-wiki.org/)
+
+> “国内计算机竞赛的百科全书，从语言基础，算法基础，数学到计算几何都有详细的介绍和分析。对于有志于计算机竞赛的学员能够给出不少帮助。”
+
+###### [Competitive Programming Algorithms - 详细的算法与数据结构介绍](https://cp-algorithms.com/)
+
+> “国外计算机竞赛的百科全书，只要通读这个网站的内容，对计算机竞赛以及算法面试有莫大的帮助”
+
+###### [GeeksforGeeks - 涵盖了各种算法的基础与常见的面试题](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+> “涵盖了无数算法题目和文章，由于数量太大，里面文章不能保证完全正确。”
+
+###### [Introduction to Algorithms - Srini Devadas (视频)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=1)
+
+> “《算法导论》的视频教程，可以说在算法领域的顶级教程。”
+
+###### [算法第四版 (视频)](https://www.bilibili.com/video/av66547337/)
+
+> “《算法》的视频教程，基于 Java 语言写就，相比《算法导论》，少了许多数学推导以及算法抽象概念内容，适合算法新手入门，涵盖的内容比较少，没有涉及一些高级的算法分析以及数据技巧，例如缺少复杂度分析以及动态规划。”
 
 #### 视频讲解
-- [Hua Hua - 详细清晰的中文讲解](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)
-- [LeetCode 力扣 - Leetcode 官方频道](https://www.youtube.com/channel/UCftIXZeipv4MTVwmfFphtYw/videos)
+
+###### [Hua Hua - 详细清晰的中文讲解](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)
+
+> “Leetcode 中文讲解中的金字塔尖，涵盖了数百道题目的可视化讲解，通过浏览此视频和高赞回答能够解答大部分的算法问题”
+
+###### [LeetCode 力扣 - Leetcode 官方频道](https://www.youtube.com/channel/UCftIXZeipv4MTVwmfFphtYw/videos)
+
+> “比较少人关注和了解的 Leetcode 讲题频道，官方出品，质量有保障。”
+> 
+
 - [山景城一姐 - 非常注重图形化分析的优秀讲解](https://www.youtube.com/channel/UCmU1_xj6hR08AMvj6J6hERg/videos)
+- [WilliamFiset - 对高级算法有清晰地分析和讲解](https://www.youtube.com/c/WilliamFiset-videos/videos)
 - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
 - [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
