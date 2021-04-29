@@ -30,12 +30,15 @@
 
 ###### [LeetCode - 最热门的面试题库](https://leetcode.com/)
 
-> “这里可以找到面试中大部分的算法原题，Leetcode 中国区还推出了高质量的免费官方解答，深入浅出，对于算法学习很有帮助。。每周的竞赛对于锻炼压力下做题非常有帮助。对于国内求职的学员，还有针对国内公司的模拟面试和职场相关讨论。“
+> “Leetcode 涵盖了国内外面试中大部分的算法题，中国区推出了针对国内公司的模拟面试和职场相关讨论，最令人感到振奋的是，中国区还包含免费的高质量官方题解，从题目分析开始，由浅入深地阐述多种代码和解法的实现，对于提升算法能力以及面试表达都能起到不错的效果。此外，每周的固定竞赛能够锻炼压力下的做题能力，是一个客观衡量算法能力的方法。“
 
 ###### [HackerRank - Market-leading technical assessment](https://www.hackerrank.com/)
 
-> “Leetcode 的题目描述大多简洁而且易理解，不过在面试的过程中，题目描述可能没有那么直观，需要从题目中抽象出核心的内容。HackerRank 上面的题目可以锻炼阅读理解能力”
+> “Leetcode 的题目描述大多简洁而且易理解，不过在实际面试的过程中，题目描述没有那么直观，面试官也可能会使用不同的面试平台，这些平台不像 Leetcode，它需要你考虑测试用例的输入输出，如果只习惯 Leetcode 的话，会在这些地方踩坑。建议在 HackerRank 做一些题目，习惯不同的题目风格。”
 
+###### [Kick Start - Google's Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
+
+> “相比前面两个平台，Kick Start 里面并没有多少面试的原题，不过对于算法爱好者，里面的题目更有趣，而且包含了更加好的测试标准。如果你厌倦了为了面试而刷题，欢迎尝试一下。”
 
 #### 课程
 ###### [Leetcode 官方小册](https://leetcode-cn.com/leetbook/)
@@ -44,38 +47,34 @@
 
 ###### [OI Wiki - 免费开放的编程竞赛知识整合站点](https://oi-wiki.org/)
 
-> “国内计算机竞赛的百科全书，从语言基础，算法基础，数学到计算几何都有详细的介绍和分析。对于有志于计算机竞赛的学员能够给出不少帮助。”
+> “国内计算机竞赛的百科全书，涵盖了计算机竞赛需要了解的所有知识点，包括工具软件，语言基础，算法基础等内容，对于高级的数据结构以及复杂的数学推理都有清晰地分析，对于有志于计算机竞赛的学员能够给出不少帮助。”
 
 ###### [Competitive Programming Algorithms - 详细的算法与数据结构介绍](https://cp-algorithms.com/)
 
-> “国外计算机竞赛的百科全书，只要通读这个网站的内容，对计算机竞赛以及算法面试有莫大的帮助”
+> “国外计算机竞赛的百科全书，对于数学定理以及高级的数据结构，会使用更长的篇幅从零开始分析以及推导，相较其他课程，更像是多个独立章节集合成的算法书。”
 
 ###### [GeeksforGeeks - 涵盖了各种算法的基础与常见的面试题](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
-> “涵盖了无数算法题目和文章，由于数量太大，里面文章不能保证完全正确。”
-
-###### [Introduction to Algorithms - Srini Devadas (视频)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=1)
-
-> “《算法导论》的视频教程，可以说在算法领域的顶级教程。”
-
-###### [算法第四版 (视频)](https://www.bilibili.com/video/av66547337/)
-
-> “《算法》的视频教程，基于 Java 语言写就，相比《算法导论》，少了许多数学推导以及算法抽象概念内容，适合算法新手入门，涵盖的内容比较少，没有涉及一些高级的算法分析以及数据技巧，例如缺少复杂度分析以及动态规划。”
+> “涵盖了大量由网友撰写的算法以及基础题目，其中不乏一些精品，而且读者可以通过评论来进行互动。如果你要在短期中进行算法冲刺，那么这里会是一个不错的起点。”
 
 #### 视频讲解
 
 ###### [Hua Hua - 详细清晰的中文讲解](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)
 
-> “Leetcode 中文讲解中的金字塔尖，涵盖了数百道题目的可视化讲解，通过浏览此视频和高赞回答能够解答大部分的算法问题”
+> “Leetcode 题目讲解中的金字塔尖，涵盖了 Leetcode 数百道题目的详细分析以及计算机科学的基础知识。通过 Hua Hua 浅显易懂地讲解和图表辅助，能够帮助你节省很多理解官方题解的时间。如果你在 Leetcode 有不理解的题目，通过此频道一定能够让你感到醍醐灌顶。”
 
 ###### [LeetCode 力扣 - Leetcode 官方频道](https://www.youtube.com/channel/UCftIXZeipv4MTVwmfFphtYw/videos)
 
-> “比较少人关注和了解的 Leetcode 讲题频道，官方出品，质量有保障。”
-> 
+> “比较少人关注和了解的 Leetcode 讲题频道，官方出品，质量有保障。对比官方题解来说，会有更多图表性的内容，缺陷的是题解过于注重形式化，而且声音太过机械。”
 
 - [山景城一姐 - 非常注重图形化分析的优秀讲解](https://www.youtube.com/channel/UCmU1_xj6hR08AMvj6J6hERg/videos)
+
+> “相比其他视频讲解，山景城一姐更像是一位朋友在你面前讲题一样，她不会跳过那些“很明显”的步骤，而是把算法的每一步都通过清晰的图形化来阐述，这种讲解方式更加适合零基础学算法的观众，”
+
 - [WilliamFiset - 对高级算法有清晰地分析和讲解](https://www.youtube.com/c/WilliamFiset-videos/videos)
-- [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
+
+> “从零开始讲述图论和动态规划的方法论和基础，相较于其他频道，William 从算法概念和基础开始分析，然后一步步引导到如何解题。如果你做了很多图论或者动态规划的题目但是无法举一反三，那么 William 的频道能够帮你补足这个短板。”
+
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
 - [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
 
