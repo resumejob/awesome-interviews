@@ -1,5 +1,6 @@
 # 求职导航
 
+
 ## 目录
 - [算法](#算法)
     - 在线训练
@@ -30,20 +31,20 @@
 
 ###### [LeetCode - 最热门的面试题库](https://leetcode.com/)
 
-> “Leetcode 涵盖了国内外面试中大部分的算法题，中国区推出了针对国内公司的模拟面试和职场相关讨论，最令人感到振奋的是，中国区还包含免费的高质量官方题解，从题目分析开始，由浅入深地阐述多种代码和解法的实现，对于提升算法能力以及面试表达都能起到不错的效果。此外，每周的固定竞赛能够锻炼压力下的做题能力，是一个客观衡量算法能力的方法。“
+> “Leetcode 涵盖了国内外面试中大部分的算法原题，中国区还免费推出了针对国内求职的职场讨论，学习小册以及极高质量的官方题解。官方题解由浅入深地阐述多种代码和解法的实现，对于提升算法能力以及面试表达能力都能起到卓越的效果。此外，每周的固定竞赛能够锻炼高压力下的做题能力，是一个客观衡量算法能力的方法。“
 
 ###### [HackerRank - Market-leading technical assessment](https://www.hackerrank.com/)
 
-> “Leetcode 的题目描述大多简洁而且易理解，不过在实际面试的过程中，题目描述没有那么直观，面试官也可能会使用不同的面试平台，这些平台不像 Leetcode，它需要你考虑测试用例的输入输出，如果只习惯 Leetcode 的话，会在这些地方踩坑。建议在 HackerRank 做一些题目，习惯不同的题目风格。”
+> “Leetcode 的题目描述大多追求简洁直观，不过在实际面试的过程中，题目描述可能并不是这样，而且面试官可能要求用与 Leetcode 不一样的 IDE 来编写代码，如果只习惯 Leetcode 的 IDE 的话，有可能会被打个措手不及。建议在 HackerRank 做一些题目，习惯不同的题目风格和在线 IDE。”
 
 ###### [Kick Start - Google's Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
 
-> “相比前面两个平台，Kick Start 里面并没有多少面试的原题，不过对于算法爱好者，里面的题目更有趣，而且包含了更加好的测试标准。如果你厌倦了为了面试而刷题，欢迎尝试一下。”
+> “相比前面两个平台，Kick Start 里面并没有多少面试的原题，不过对于算法爱好者，里面的题目相对更难和更有趣，只有无畏艰辛和勇于挑战的算法爱好者能够在此赢得荣誉，如果你厌倦了为了面试而刷题，欢迎尝试一下。”
 
 #### 课程
 ###### [Leetcode 官方小册](https://leetcode-cn.com/leetbook/)
 
-> “官方小册包含初级算法，数据结构的介绍和例题，对于算法新手有莫大的帮助。最新还推出针对面试的八股文基础，包括计算机网络面试突击，Java 面试突击，C++ 面试突击，前端通关指南等，比网络上大多数资源都值得学习。”
+> “官方小册包含初级算法，数据结构的介绍和例题，对于算法新手有莫大的帮助。最新还推出针对面试的八股文基础，包括《计算机网络面试突击》，《Java 面试突击》《前端通关手册》《排序算法全解析》等，能够节约你不少筛选和整理资料的时间。”
 
 ###### [OI Wiki - 免费开放的编程竞赛知识整合站点](https://oi-wiki.org/)
 
@@ -67,22 +68,35 @@
 
 > “比较少人关注和了解的 Leetcode 讲题频道，官方出品，质量有保障。对比官方题解来说，会有更多图表性的内容，缺陷的是题解过于注重形式化，而且声音太过机械。”
 
-- [山景城一姐 - 非常注重图形化分析的优秀讲解](https://www.youtube.com/channel/UCmU1_xj6hR08AMvj6J6hERg/videos)
+###### [山景城一姐 - 非常注重图形化分析的优秀讲解](https://www.youtube.com/channel/UCmU1_xj6hR08AMvj6J6hERg/videos)
 
-> “相比其他视频讲解，山景城一姐更像是一位朋友在你面前讲题一样，她不会跳过那些“很明显”的步骤，而是把算法的每一步都通过清晰的图形化来阐述，这种讲解方式更加适合零基础学算法的观众，”
+> “相比其他视频讲解，山景城一姐更像是一位朋友在你面前讲题一样，她不会跳过那些“很明显”的步骤，而是把算法的每一步都通过清晰的图形化来阐述，这种讲解方式更加适合零基础学算法的观众。”
 
-- [WilliamFiset - 对高级算法有清晰地分析和讲解](https://www.youtube.com/c/WilliamFiset-videos/videos)
+###### [WilliamFiset - 对高级算法有清晰地分析和讲解](https://www.youtube.com/c/WilliamFiset-videos/videos)
 
-> “从零开始讲述图论和动态规划的方法论和基础，相较于其他频道，William 从算法概念和基础开始分析，然后一步步引导到如何解题。如果你做了很多图论或者动态规划的题目但是无法举一反三，那么 William 的频道能够帮你补足这个短板。”
+> “William 的频道在图论领域有着不错的口碑。它从书本中抽取出所有精妙的定理，着重从算法概念和基础开始，一步步引导到如何解题。如果你做了很多图论或者动态规划的题目但是无法举一反三，那么 William 的频道能够帮你补足这个短板。”
 
-- [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
-- [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
+###### [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525/videos)
+
+> “Tushar Roy 对 Leetcode 前期的题目有比较详细的讲解和分析，不过由于时代久远，并没达到尽善尽美。他使用了最原始的白板来进行讲解，没有像 Hua Hua 或者 WilliamFiset 一样使用流程图和 PPT，这些优点是最近的频道才拥有的。但是不可否认的是，在 Leetcode 初期的题目讲解中，他的频道已经非常易懂和清晰了。”
+
+###### [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
+
+> “比起其他平凡乏味的视频讲解，Stable Sort 从常见的应用场景出发一步步延展到面试题目，其中穿插着有趣的示意图和流程图，令人无法自拔地想将所有视频一次性看完。
 
 #### 书籍
 - [算法（第4版）](https://book.douban.com/subject/19952400/)
+
+> “毋容置疑，这是一本适合新手入门的算法书”
+
 - [算法导论](https://book.douban.com/subject/20432061/)
+
+> “如果我只能带一本书度过一生，那么这本书会是我的唯一选择。它长篇累牍并清晰地将大量算法理论和实践结合在一起，一些原本以为自己理解的算法知识点，通过它的解读之后又有更加深刻地认识，每读一遍都使人心驰神往。”
+
 - [Cracking the Coding Interview](https://book.douban.com/subject/26570695/)
-- [剑指Offer](https://book.douban.com/subject/6966465/)
+
+> “这是一本与众不同的算法书，开篇的内容通过采访几大公司的内部员工，从面试官和招聘者的角度讲述了面试中需要注意的细节以及求职者常犯的错误。它用自己的风格弥补和完善了其他算法书的缺陷，回答了面试中应该选择什么语言来刷题，面试前一天应该准备什么这类问题。”
+
 
 #### 算法可视化
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
@@ -114,6 +128,12 @@
 - [MySQL 中文文档](https://dev.mysql.com/doc/refman/8.0/en/)
 - [Redis Documentation](https://redis.io/documentation)
 - [Redis 中文文档 - 看完能够解答极大部分 Redis 面试题](http://www.redis.cn/documentation.html)
+
+### 云平台
+- 谷歌云
+- AWS
+- 腾讯云
+- 阿里云
 
 ### 实战
 <hr>
