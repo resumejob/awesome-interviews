@@ -36,7 +36,7 @@
 
 > “Leetcode 的题目描述大多追求简洁直观，不过在实际面试的过程中，题目描述可能并不是这样，而且面试官可能要求用与 Leetcode 不一样的 IDE 来编写代码，如果只习惯 Leetcode 的 IDE 的话，有可能会被打个措手不及。建议在 HackerRank 做一些题目，习惯不同的题目风格和在线 IDE。”
 
-###### [Kick Start - Google's Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
+###### [* Kick Start - Google's Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
 
 > “相比前面两个平台，Kick Start 里面并没有多少面试的原题，不过对于算法爱好者，里面的题目相对更难和更有趣，只有无畏艰辛和勇于挑战的算法爱好者能够在此赢得荣誉，如果你厌倦了为了面试而刷题，欢迎尝试一下。”
 
@@ -46,11 +46,11 @@
 
 > “官方小册包含初级算法，数据结构的介绍和例题，对于算法新手有莫大的帮助。最新还推出针对面试的八股文基础，包括《计算机网络面试突击》，《Java 面试突击》《前端通关手册》《排序算法全解析》等，能够节约你不少筛选和整理资料的时间。”
 
-###### [OI Wiki - 免费开放的编程竞赛知识整合站点](https://oi-wiki.org/)
+###### [* OI Wiki - 免费开放的编程竞赛知识整合站点](https://oi-wiki.org/)
 
 > “国内计算机竞赛的百科全书，涵盖了计算机竞赛需要了解的所有知识点，包括工具软件，语言基础，算法基础等内容，对于高级的数据结构以及复杂的数学推理都有清晰地分析，对于有志于计算机竞赛的学员能够给出不少帮助。”
 
-###### [Competitive Programming Algorithms - 详细的算法与数据结构介绍](https://cp-algorithms.com/)
+###### [* Competitive Programming Algorithms - 详细的算法与数据结构介绍](https://cp-algorithms.com/)
 
 > “国外计算机竞赛的百科全书，对于数学定理以及高级的数据结构，会使用更长的篇幅从零开始分析以及推导，相较其他课程，更像是多个独立章节集合成的算法书。”
 
@@ -72,7 +72,7 @@
 
 > “相比其他视频讲解，山景城一姐更像是一位朋友在你面前讲题一样，她不会跳过那些“很明显”的步骤，而是把算法的每一步都通过清晰的图形化来阐述，这种讲解方式更加适合零基础学算法的观众。”
 
-###### [WilliamFiset - 对高级算法有清晰地分析和讲解](https://www.youtube.com/c/WilliamFiset-videos/videos)
+###### [* WilliamFiset - 对高级算法有清晰地分析和讲解](https://www.youtube.com/c/WilliamFiset-videos/videos)
 
 > “William 的频道在图论领域有着不错的口碑。它从书本中提炼出所有精妙的定理，着重从图论算法概念和基础开始，一步步引导到如何解题。如果你做了很多图论或者动态规划的题目但是无法举一反三，那么 William 的频道能够帮你补足这个短板。”
 
@@ -80,7 +80,7 @@
 
 > “Tushar Roy 对 Leetcode 前期的题目有比较详细的讲解和分析，不过由于时代久远，并没达到尽善尽美。他使用了最原始的白板来进行讲解，没有像 Hua Hua 或者 WilliamFiset 一样使用流程图和 PPT，这些优点是最近的频道才拥有的。但是不可否认的是，在 Leetcode 初期的题目讲解中，他的频道已经非常易懂和清晰了。”
 
-###### [Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
+###### [* Stable Sort](https://www.youtube.com/channel/UCV2g02zq5y7unJ_GSr-de2w/videos)
 
 > “比起其他平凡乏味的视频讲解，Stable Sort 从常见的应用场景出发一步步延展到面试题目，其中穿插着有趣的示意图和流程图，令人无法自拔地想将所有视频一次性看完。
 
@@ -90,7 +90,7 @@
 
 > “毋容置疑，这是一本适合新手入门的算法书。它选用了常见的算法类型以及最稳妥的 Java 编程语言来书写，你可以边阅读边实践，真切地感受到算法的魅力以及自己能力的提升。”
 
-###### [算法导论](https://book.douban.com/subject/20432061/)
+###### [* 算法导论](https://book.douban.com/subject/20432061/)
 
 > “如果我只能带一本书度过一生，那么这本书会是我的唯一选择。从算法基础知识到高级设计和分析技术，从多线程算法到计算几何学，它事无巨细地将浩瀚的算法理论与代码实践结合在一起，使其成为了市面上最受推崇的算法书之一。一些原本以为自己理解的算法知识点，通过它的分析与解读之后又有更加深刻地认识，每读一遍都使人心驰神往。”
 
