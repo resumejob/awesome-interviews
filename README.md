@@ -136,7 +136,7 @@
 ## 技术基础
 
 ### 免费课程
-- [Udacity 免费课程 - 免费的课程有时候可能更好](https://www.udacity.com/courses/all?type=free+courses)
+- [Udacity 免费课程](https://www.udacity.com/courses/all?type=free+courses)
 - [Udemy 免费课程](https://www.udemy.com/zh-cn/courses/development/?price=price-free&sort=popularity)
 - [Github 课程](https://)
 
@@ -144,13 +144,12 @@
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 - [MySQL 中文文档](https://dev.mysql.com/doc/refman/8.0/en/)
 - [Redis Documentation](https://redis.io/documentation)
-- [Redis 中文文档 - 看完能够解答极大部分 Redis 面试题](http://www.redis.cn/documentation.html)
 
 ### 云平台
-- 谷歌云
-- AWS
-- 腾讯云
-- 阿里云
+- [谷歌云](https://cloud.google.com/)
+- [AWS](https://aws.amazon.com/cn/)
+- [腾讯云](https://cloud.tencent.com/)
+- [阿里云](https://cn.aliyun.com/)
 
 ## 实战
 
